@@ -3,3 +3,4 @@ printing the current working directory
 a script that changes the current directory to users home directory
 displaying current directory in long format
 Display current directory contents, including hidden files (starting with .) in long format.
+displaying current directory including hiden files in long format with user ID displayed numerically
